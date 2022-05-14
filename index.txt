@@ -1,3 +1,2 @@
 version 1
-发现bug
-修改bug
+开发新功能
